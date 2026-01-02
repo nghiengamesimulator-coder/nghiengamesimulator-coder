@@ -14,9 +14,9 @@
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiengamesimulator-coder&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
  ### contact
- @nghiengamesimulator@gmail.com
- @discord.gg/lanyard
- @discord.gg/discorddev
+ nghiengamesimulator@gmail.com
+ discord.gg/lanyard
+ discord.gg/discorddev
 <!--
 **nghiengamesimulator-coder/nghiengamesimulator-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
