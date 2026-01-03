@@ -21,14 +21,14 @@
 ### main stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github,tiktok,robloxstudio,mongodb" />
+    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github,ts,robloxstudio,mongodb,vim,sublime,cursor,git,mysql,redis,postman,docker,bash,aws,ps,unity" />
   </a>
 </div>
 
 ### grinding rn
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,cpp" />
+    <img src="https://skillicons.dev/icons?i=react,ts,cpp,go,linux" />
   </a>
 </div>
 
